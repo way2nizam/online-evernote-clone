@@ -36,7 +36,7 @@ class SidebarComponent extends React.Component {
                 className={classes.newNoteSubmitBtn}
                 onClick={this.newNote}
               >
-                Save Note
+                Save
               </Button>
             </div>
           ) : null}
